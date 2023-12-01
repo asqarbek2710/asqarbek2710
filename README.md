@@ -1,0 +1,3 @@
+- I’m Asqarbek
+- A student of Amity University Tashkent
+- Currently learning C programming language
