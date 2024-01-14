@@ -1,3 +1,2 @@
-- I’m Asqarbek
-- A student of Amity University Tashkent
-- Currently learning C programming language
+Hi there, I am Asqarbek Raimov
+Student of Amity University Tashkent (BTech)
